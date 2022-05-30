@@ -25,6 +25,8 @@ body{
     /* center this div */
     margin-left: 45%;
     margin-top: 5vh;
+    display: block;
+    position: relative;
     width: 40vw;
     height: auto;
 }
@@ -44,11 +46,11 @@ ul{
     position: absolute;
 }
 .table0{
-    left: 110vh;
+    /* left: 110vh; */
     margin-top: 2vh;
 }
 .table1{
-    left:90vh;
+    left:20vh;
     margin-top: 2vh;
 }
 .end{
