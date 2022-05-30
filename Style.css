@@ -7,16 +7,52 @@
     font-family: 'Prompt', sans-serif;
 }
 body{
-    height: auto;
+    height: 100vh;
     width: auto;
 }
 .topDiv {
     height: 12vh;
     margin-top: 12vh;
-    margin-left: 30%;
+    margin-left: 35%;
     font-size: 20px;
 }
 .hint{
+    margin-top: 1vh;
     font-size: 15px;
-    margin-left: 10vh;
+    margin-left: 13vh;
+}
+.wTable{
+    /* center this div */
+    margin-left: 45%;
+    margin-top: 5vh;
+    width: 40vw;
+    height: auto;
+}
+.words{
+    margin-top: 2vh;
+
+    width: 50%;
+}
+li{
+    list-style: none;
+    font-size: 16px;
+    margin-left: 5px;
+    margin-top: 2vh;
+}
+ul{
+    width: 25vh;
+    position: absolute;
+}
+.table0{
+    left: 110vh;
+    margin-top: 2vh;
+}
+.table1{
+    left:90vh;
+    margin-top: 2vh;
+}
+.end{
+    width: 100%;
+    margin-left: 28%;
+    margin-top: 60vh;
 }
