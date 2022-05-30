@@ -6,21 +6,17 @@
     text-decoration: none;
     font-family: 'Prompt', sans-serif;
 }
-.center{
-    /* make div center */
-    width: 100%;
-    position: absolute;
-    border-top: 12vh;
-    margin-top: 12vh;
-    display:inline-block;
-    /* color: #276d38; */
-    font-size: 20px;
-}
 body{
     height: auto;
     width: auto;
-    /* background-color: #7be495; */
 }
-.wTable {
-    margin-top: 30vh;
+.topDiv {
+    height: 12vh;
+    margin-top: 12vh;
+    margin-left: 30%;
+    font-size: 20px;
+}
+.hint{
+    font-size: 15px;
+    margin-left: 10vh;
 }
