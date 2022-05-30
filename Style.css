@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Prompt', sans-serif;
+}
+.center{
+    /* make div center */
+    width: 100%;
+    position: absolute;
+    border-top: 12vh;
+    margin-top: 12vh;
+    display:inline-block;
+    /* color: #276d38; */
+    font-size: 20px;
+}
+body{
+    height: auto;
+    width: auto;
+    /* background-color: #7be495; */
+}
+.wTable {
+    margin-top: 30vh;
+}
