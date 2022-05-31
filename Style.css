@@ -22,7 +22,6 @@ body{
     margin-left: 13vh;
 }
 .wTable{
-    /* center this div */
     margin-left: 45%;
     margin-top: 5vh;
     display: block;
@@ -31,30 +30,12 @@ body{
     height: auto;
 }
 .words{
-    margin-top: 2vh;
-
+    margin-top: 8vh;
     width: 50%;
-}
-li{
-    list-style: none;
-    font-size: 16px;
-    margin-left: 5px;
-    margin-top: 2vh;
-}
-ul{
-    width: 25vh;
-    position: absolute;
-}
-.table0{
-    /* left: 110vh; */
-    margin-top: 2vh;
-}
-.table1{
-    left:20vh;
-    margin-top: 2vh;
+    margin-left: -7%;
 }
 .end{
     width: 100%;
     margin-left: 28%;
-    margin-top: 60vh;
+    margin-top: 20vh;
 }
